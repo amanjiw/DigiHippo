@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 import MaxWithWrapper from "@/components/MaxWithWrapper";
 import Link from "next/link";
 import { Button, buttonVariants } from "@/components/ui/button";
